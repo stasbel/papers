@@ -8,7 +8,7 @@ Introducing new approarch for instance segmentation task as an extension to Inst
 
 ## Notes
 
-There are two major approaches for doing instance segmentation task at the moment. One realted to Propose & Verify (PV) strategy, which firsly proposed set of candidate regions and then performing segmentation on each of them (often performing in non-end-to-end mode with IoU tresholding and non-maximum suppression), and Instance Coloring (IC), which assing an embedding for each pixel of input image which can be used to separate instances using distance info, i.e. clustering (thus, embedding should be separable with some theshold `M`):
+There are two major approaches for doing instance segmentation task at the moment. One related to Propose & Verify (PV) strategy, which firsly proposed set of candidate regions and then performing segmentation on each of them (often performing in non-end-to-end mode with IoU tresholding and non-maximum suppression), and Instance Coloring (IC), which assing an embedding for each pixel of input image which can be used to separate instances using distance info, i.e. clustering (thus, embedding should be separable with some theshold `M`):
 
 ![](ic_approach.png)
 
