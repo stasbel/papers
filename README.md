@@ -17,3 +17,7 @@ My notes on different machine learning papers and related topics
 ### 11
 
 - [Deep Image Prior](1711_deep_image_prior)
+
+### 08
+
+- [Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates](1708_super_convergence)
