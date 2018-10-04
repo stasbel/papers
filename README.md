@@ -12,6 +12,10 @@ My notes on different machine learning papers and related topics
 
 - [Semi-convolutional Operators for Instance Segmentation](1807_semi_conv_operators_for_instance_segmentation)
 
+### 06
+
+- [NAM: Non-Adversarial Unsupervised Domain Mapping](1806_nam)
+
 ## 17
 
 ### 11
