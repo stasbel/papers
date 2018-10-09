@@ -11,6 +11,7 @@ My notes on different machine learning papers and related topics
 ### 07
 
 - [Semi-convolutional Operators for Instance Segmentation](1807_semi_conv_operators_for_instance_segmentation)
+- [CBAM: Convolutional Block Attention Module](1807_cbam)
 
 ### 06
 

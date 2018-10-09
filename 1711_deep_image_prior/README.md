@@ -1,6 +1,7 @@
 # [Deep Image Prior](https://arxiv.org/abs/1711.10925)
 
-[GDrive pdf with notes](https://drive.google.com/file/d/1X0F5KM-n86Kmc0L9DJaKiStx8SUbil2U/view?usp=sharing)
+[GDrive pdf with notes](https://drive.google.com/file/d/1X0F5KM-n86Kmc0L9DJaKiStx8SUbil2U/view?usp=sharing)  
+[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vT7mbFh-U0bHSmpmhwIifM8pU2ru9g1mJad_OsfQdt9of5LbIURZKCP_UOt1AqVmhmeYad1TPZCSVRQ/pub?start=false&loop=false&delayms=3000)
 
 ## TDLR
 
