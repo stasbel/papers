@@ -17,9 +17,17 @@ My notes on different machine learning papers and related topics
 
 - [NAM: Non-Adversarial Unsupervised Domain Mapping](papers/1806_nam)
 
+### 05
+
+- [Self-Attention Generative Adversarial Network](papers/1805_sagan)
+
 ### 03
 
 - [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs; Averaging Weights Leads to Wider Optima and Better Generalization](papers/1803_fge_swa)
+
+### 02
+
+- [Spectral Normalization for Generative Adversarial Networks](papers/1802_spectral_normalization_for_gan)
 
 ## 17
 
@@ -30,3 +38,7 @@ My notes on different machine learning papers and related topics
 ### 08
 
 - [Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates](papers/1708_super_convergence)
+
+### 06
+
+- [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](papers/1706_ttur)
