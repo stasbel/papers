@@ -1,7 +1,7 @@
 # [NAM: Non-Adversarial Unsupervised Domain Mapping](https://arxiv.org/abs/1806.00804)
 
-[GDrive pdf with notes](https://drive.google.com/drive/u/0/folders/1Afbp-OQLUYlRsHY48M9RkCcR_Ahx1sGf)  
-[IMCL draft GDrive pdf with notes](https://drive.google.com/drive/u/0/folders/1Afbp-OQLUYlRsHY48M9RkCcR_Ahx1sGf)
+[GDrive pdf with notes](https://drive.google.com/file/d/1aEZ_j0G7vRXI3ARzhbjsliuCry7eTHsu/view?usp=sharing)  
+[IMCL draft GDrive pdf with notes](https://drive.google.com/file/d/15ODkcw9MQZbHrG2y12H7zbFGeXafoPVz/view?usp=sharing)
 
 ## TDLR
 

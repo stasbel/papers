@@ -20,6 +20,7 @@ My notes on different machine learning papers and related topics
 ### 05
 
 - [Self-Attention Generative Adversarial Network](papers/1805_sagan)
+- [The Effectiveness of Instance Normalization: a Strong Baseline for Single Image Dehazing](papers/1805_the_effectiveness_of_instance_normalization)
 
 ### 03
 
@@ -28,6 +29,7 @@ My notes on different machine learning papers and related topics
 ### 02
 
 - [Spectral Normalization for Generative Adversarial Networks](papers/1802_spectral_normalization_for_gan)
+- [A DIRT-T Approach to Unsupervised Domain Adaptation](papers/1802_dirt_t)
 
 ## 17
 
@@ -42,3 +44,9 @@ My notes on different machine learning papers and related topics
 ### 06
 
 - [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](papers/1706_ttur)
+
+## 16
+
+### 07
+
+- [Instance Normalization: The Missing Ingredient for Fast Stylization](papers/1607_instance_normalization)
