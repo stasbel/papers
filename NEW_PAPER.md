@@ -8,6 +8,12 @@
 
 ## Notes
 
+### Idea
+
+...
+
+### Result
+
 ...
 
 ## Afterword
@@ -16,4 +22,5 @@
 
 ## Links
 
-...
+- []()
+- ...
