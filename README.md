@@ -2,6 +2,10 @@
 
 My notes on different machine learning papers and related topics
 
+## New paper
+
+`./new_paper <date>_<name>`
+
 ## 18
 
 | Month | Paper |
@@ -15,12 +19,15 @@ My notes on different machine learning papers and related topics
 | **03** | [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs; Averaging Weights Leads to Wider Optima and Better Generalization](papers/1803_fge_swa) |
 | **02** | [Spectral Normalization for Generative Adversarial Networks](papers/1802_spectral_normalization_for_gan) |
 | ^ | [A DIRT-T Approach to Unsupervised Domain Adaptation](papers/1802_dirt_t) |
+| ^ | [ShakeDrop Regularization](papers/1802_shake_drop) |
+
 
 ## 17
 
 | Month | Paper |
 | --- | --- |
 | **11** | [Deep Image Prior](papers/1711_deep_image_prior) |
+| ^ | [Fixing Weight Decay Regularization in Adam](papers/1711_adamw) |
 | **08** | [Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates](papers/1708_super_convergence) |
 | **06** | [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](papers/1706_ttur) |
 
